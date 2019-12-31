@@ -1,0 +1,15 @@
+data:{
+chapta: false
+classname: ""
+color: ""
+elements: Array(1)
+0: {type: "password", placeholder: "asdasdas", classname: undefined, name: "dasdas", required: true}
+length: 1
+__proto__: Array(0)
+height: ""
+name: ""
+placeholder: ""
+required: false
+type: ""
+width: ""
+}
